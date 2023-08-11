@@ -22,3 +22,5 @@ is allowed to wait before returning to its hole. This isn't intended to be a dif
 the addition of the timer at least creates a little bit of a difficult curve. It should be noted
 that this is not a production ready game or anything, so if you score too high the moles will just
 start appearing and disappearing rapidly.
+
+You can play the game here: https://av-guy.github.io/ca-mole-unearther/
